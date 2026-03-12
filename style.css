@@ -1,0 +1,33 @@
+body{
+    
+    background-image: url(imagens/foto1.png);
+    font-size: 10px;
+}
+h1{
+    color: white;
+    border: 2px solid rgb(0, 174, 255);
+    display: inline-block;
+    background-color: black;
+
+}
+#Preço{
+    color: white;
+    border: 2px solid rgb(0, 174, 255);
+    display: inline-block;
+    background-color: black;
+}
+h3{
+    color: white;
+    border: 2px solid rgb(0, 174, 255);
+    display: inline-block;
+    background-color: black;
+}
+#btncomprar{
+    color: white;
+    size: 50px;
+    border: 2px solid rgb(0, 174, 255);
+    display: inline-block;
+}
+    
+
+

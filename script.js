@@ -1,0 +1,1 @@
+function clicar() {alert("Compra Feita com Sucesso!")}
